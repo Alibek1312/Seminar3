@@ -18,4 +18,12 @@ _kk_
 
 сайт [ggg][1]
 
-[1]: liting.uz
+[1]: liting.uz 'wowww'
+
+- a
+    - b
+        - c
+
+1. a
+2. b
+4. c
